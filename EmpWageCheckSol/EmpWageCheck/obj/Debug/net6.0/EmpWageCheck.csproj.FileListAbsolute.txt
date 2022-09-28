@@ -1,0 +1,15 @@
+C:\Users\ABHINESH\source\repos\EmpWageCheckSol\EmpWageCheck\bin\Debug\net6.0\EmpWageCheck.exe
+C:\Users\ABHINESH\source\repos\EmpWageCheckSol\EmpWageCheck\bin\Debug\net6.0\EmpWageCheck.deps.json
+C:\Users\ABHINESH\source\repos\EmpWageCheckSol\EmpWageCheck\bin\Debug\net6.0\EmpWageCheck.runtimeconfig.json
+C:\Users\ABHINESH\source\repos\EmpWageCheckSol\EmpWageCheck\bin\Debug\net6.0\EmpWageCheck.dll
+C:\Users\ABHINESH\source\repos\EmpWageCheckSol\EmpWageCheck\bin\Debug\net6.0\EmpWageCheck.pdb
+C:\Users\ABHINESH\source\repos\EmpWageCheckSol\EmpWageCheck\obj\Debug\net6.0\EmpWageCheck.csproj.AssemblyReference.cache
+C:\Users\ABHINESH\source\repos\EmpWageCheckSol\EmpWageCheck\obj\Debug\net6.0\EmpWageCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABHINESH\source\repos\EmpWageCheckSol\EmpWageCheck\obj\Debug\net6.0\EmpWageCheck.AssemblyInfoInputs.cache
+C:\Users\ABHINESH\source\repos\EmpWageCheckSol\EmpWageCheck\obj\Debug\net6.0\EmpWageCheck.AssemblyInfo.cs
+C:\Users\ABHINESH\source\repos\EmpWageCheckSol\EmpWageCheck\obj\Debug\net6.0\EmpWageCheck.csproj.CoreCompileInputs.cache
+C:\Users\ABHINESH\source\repos\EmpWageCheckSol\EmpWageCheck\obj\Debug\net6.0\EmpWageCheck.dll
+C:\Users\ABHINESH\source\repos\EmpWageCheckSol\EmpWageCheck\obj\Debug\net6.0\refint\EmpWageCheck.dll
+C:\Users\ABHINESH\source\repos\EmpWageCheckSol\EmpWageCheck\obj\Debug\net6.0\EmpWageCheck.pdb
+C:\Users\ABHINESH\source\repos\EmpWageCheckSol\EmpWageCheck\obj\Debug\net6.0\EmpWageCheck.genruntimeconfig.cache
+C:\Users\ABHINESH\source\repos\EmpWageCheckSol\EmpWageCheck\obj\Debug\net6.0\ref\EmpWageCheck.dll
