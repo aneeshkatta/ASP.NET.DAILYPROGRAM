@@ -1,0 +1,15 @@
+C:\Users\ABHINESH\source\repos\employeeattendencesol\employeeattendence\obj\Debug\net6.0\employeeattendence.csproj.AssemblyReference.cache
+C:\Users\ABHINESH\source\repos\employeeattendencesol\employeeattendence\obj\Debug\net6.0\employeeattendence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABHINESH\source\repos\employeeattendencesol\employeeattendence\obj\Debug\net6.0\employeeattendence.AssemblyInfoInputs.cache
+C:\Users\ABHINESH\source\repos\employeeattendencesol\employeeattendence\obj\Debug\net6.0\employeeattendence.AssemblyInfo.cs
+C:\Users\ABHINESH\source\repos\employeeattendencesol\employeeattendence\obj\Debug\net6.0\employeeattendence.csproj.CoreCompileInputs.cache
+C:\Users\ABHINESH\source\repos\employeeattendencesol\employeeattendence\bin\Debug\net6.0\employeeattendence.exe
+C:\Users\ABHINESH\source\repos\employeeattendencesol\employeeattendence\bin\Debug\net6.0\employeeattendence.deps.json
+C:\Users\ABHINESH\source\repos\employeeattendencesol\employeeattendence\bin\Debug\net6.0\employeeattendence.runtimeconfig.json
+C:\Users\ABHINESH\source\repos\employeeattendencesol\employeeattendence\bin\Debug\net6.0\employeeattendence.dll
+C:\Users\ABHINESH\source\repos\employeeattendencesol\employeeattendence\bin\Debug\net6.0\employeeattendence.pdb
+C:\Users\ABHINESH\source\repos\employeeattendencesol\employeeattendence\obj\Debug\net6.0\employeeattendence.dll
+C:\Users\ABHINESH\source\repos\employeeattendencesol\employeeattendence\obj\Debug\net6.0\refint\employeeattendence.dll
+C:\Users\ABHINESH\source\repos\employeeattendencesol\employeeattendence\obj\Debug\net6.0\employeeattendence.pdb
+C:\Users\ABHINESH\source\repos\employeeattendencesol\employeeattendence\obj\Debug\net6.0\employeeattendence.genruntimeconfig.cache
+C:\Users\ABHINESH\source\repos\employeeattendencesol\employeeattendence\obj\Debug\net6.0\ref\employeeattendence.dll

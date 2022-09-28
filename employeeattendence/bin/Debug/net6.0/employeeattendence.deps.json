@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "employeeattendence/1.0.0": {
+        "runtime": {
+          "employeeattendence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "employeeattendence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
