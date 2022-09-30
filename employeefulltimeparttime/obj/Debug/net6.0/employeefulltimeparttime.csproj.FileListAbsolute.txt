@@ -1,0 +1,15 @@
+C:\Users\ABHINESH\source\repos\employeefulltimeparttimesol\employeefulltimeparttime\obj\Debug\net6.0\employeefulltimeparttime.csproj.AssemblyReference.cache
+C:\Users\ABHINESH\source\repos\employeefulltimeparttimesol\employeefulltimeparttime\obj\Debug\net6.0\employeefulltimeparttime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABHINESH\source\repos\employeefulltimeparttimesol\employeefulltimeparttime\obj\Debug\net6.0\employeefulltimeparttime.AssemblyInfoInputs.cache
+C:\Users\ABHINESH\source\repos\employeefulltimeparttimesol\employeefulltimeparttime\obj\Debug\net6.0\employeefulltimeparttime.AssemblyInfo.cs
+C:\Users\ABHINESH\source\repos\employeefulltimeparttimesol\employeefulltimeparttime\obj\Debug\net6.0\employeefulltimeparttime.csproj.CoreCompileInputs.cache
+C:\Users\ABHINESH\source\repos\employeefulltimeparttimesol\employeefulltimeparttime\bin\Debug\net6.0\employeefulltimeparttime.exe
+C:\Users\ABHINESH\source\repos\employeefulltimeparttimesol\employeefulltimeparttime\bin\Debug\net6.0\employeefulltimeparttime.deps.json
+C:\Users\ABHINESH\source\repos\employeefulltimeparttimesol\employeefulltimeparttime\bin\Debug\net6.0\employeefulltimeparttime.runtimeconfig.json
+C:\Users\ABHINESH\source\repos\employeefulltimeparttimesol\employeefulltimeparttime\bin\Debug\net6.0\employeefulltimeparttime.dll
+C:\Users\ABHINESH\source\repos\employeefulltimeparttimesol\employeefulltimeparttime\bin\Debug\net6.0\employeefulltimeparttime.pdb
+C:\Users\ABHINESH\source\repos\employeefulltimeparttimesol\employeefulltimeparttime\obj\Debug\net6.0\employeefulltimeparttime.dll
+C:\Users\ABHINESH\source\repos\employeefulltimeparttimesol\employeefulltimeparttime\obj\Debug\net6.0\refint\employeefulltimeparttime.dll
+C:\Users\ABHINESH\source\repos\employeefulltimeparttimesol\employeefulltimeparttime\obj\Debug\net6.0\employeefulltimeparttime.pdb
+C:\Users\ABHINESH\source\repos\employeefulltimeparttimesol\employeefulltimeparttime\obj\Debug\net6.0\employeefulltimeparttime.genruntimeconfig.cache
+C:\Users\ABHINESH\source\repos\employeefulltimeparttimesol\employeefulltimeparttime\obj\Debug\net6.0\ref\employeefulltimeparttime.dll
