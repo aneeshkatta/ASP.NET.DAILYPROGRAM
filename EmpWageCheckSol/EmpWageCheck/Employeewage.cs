@@ -16,10 +16,12 @@ namespace EmpWageCheck
             int empCheck = random.Next(0, 2);
             if (empCheck == 0)
             {
-                 empHrs = 8;
+                Console.WriteLine("Employee wage is fulltime");
+                empHrs = 8;
             }
             else
             {
+                 Console.WriteLine("Employee wage is parttime");
                 empHrs = 0;
             }
             int empWage = empHrs * EMP_RATE_PER_HOUR;
