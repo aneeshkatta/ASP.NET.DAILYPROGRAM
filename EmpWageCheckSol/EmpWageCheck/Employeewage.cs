@@ -22,7 +22,7 @@ namespace EmpWageCheck
             else
             {
                  Console.WriteLine("Employee wage is parttime");
-                empHrs = 0;
+                empHrs = 4;
             }
             int empWage = empHrs * EMP_RATE_PER_HOUR;
             Console.WriteLine("Employee wage is " + empWage);
